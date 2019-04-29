@@ -17,7 +17,7 @@ Follow the article [AWS Lambda in Python with SAM](https://fnattic.com/aws-lambd
 
 ## Running the app
 
-``[STACK_NAME]``` is the name of the stack used for deployment.
+```[STACK_NAME]``` is the name of the stack used for deployment.
 
 ```shell
 aws cloudformation describe-stacks --stack-name [STACK_NAME]
