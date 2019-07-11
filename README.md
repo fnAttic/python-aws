@@ -1,3 +1,5 @@
+# Moved to https://github.com/designfultech/python-aws
+
 # AWS Lambda in Python with SAM
 
 A sample project for building and deploying Python functions on AWS Lambda.
